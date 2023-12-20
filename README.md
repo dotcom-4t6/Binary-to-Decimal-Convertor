@@ -1,4 +1,4 @@
-<h1>**🌟 Binary to Decimal Converter 🌟**<h1
+<h2>**🌟 Binary to Decimal Converter 🌟**</h2>
 
 
 Welcome to the Binary to Decimal Converter, your portal to the world of binary wonders! 🚀 This dazzling C++ program is not just a code snippet; it's an experience—a journey from binary chaos to decimal harmony!
