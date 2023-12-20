@@ -1,5 +1,5 @@
 **🌟 Binary to Decimal Converter 🌟**
-Just a basic and simple C++ to convert Binary to decimal.
+
 
 Welcome to the Binary to Decimal Converter, your portal to the world of binary wonders! 🚀 This dazzling C++ program is not just a code snippet; it's an experience—a journey from binary chaos to decimal harmony!
 
